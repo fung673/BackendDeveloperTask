@@ -10,7 +10,7 @@ This project is a backend developer task for KS Labs Hong Kong Limited, implemen
 - Node.js
 - Express.js
 - Prisma
-- PostgreSQL (or your choice of database)
+- PostgreSQL
 
 > Some dependencies might not be used for example, "supertest", due to insufficient time to complete the auto test flow
 
