@@ -18,7 +18,7 @@ This project is a backend developer task for KS Labs Hong Kong Limited, implemen
 ```
 git clone https://github.com/fung673/BackendDeveloperTask.git
 ```
-- install all dependency by running npm install in terminal
+- install all dependency by running ```npm install``` in terminal
 ```
 npx prisma migrate dev
 ```
